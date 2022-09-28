@@ -2,10 +2,10 @@
   "menu.game": "ꡥꡦ",
   "menu.disconnect": "찂§cLeaving is for losers!§r찁ꢘ",
   "menu.returnToMenu": "찂§cLeaving is for losers!§r찁ꢘ",
-  "menu.returnToGame": "Back to §6Tydiumcraft!",
-  "tcMsg.addedSkin": "Successfully Applied Tool Skin!",
-  "tcMsg.unvalidSkinTool": "Please Make Sure You're Holding a Supported Item.",
-  "tcMsg.sameSkinTool": "Item Already Has This Skin.",
-  "tcMsg.noSkin": "Selected Item Doesn't Have a Set Skin.",
-  "tcMsg.resetSkin": "Successfully Reset Tool Skin!"
+  "menu.returnToGame": "Back to §6TydiumCraft!",
+  "tcMsg.addedSkin": "Successfully applied tool skin!",
+  "tcMsg.unvalidSkinTool": "Please make sure you're holding a supported item.",
+  "tcMsg.sameSkinTool": "Item already has this skin.",
+  "tcMsg.noSkin": "Selected item doesn't have a set skin.",
+  "tcMsg.resetSkin": "Successfully reset tool skin!"
 }
