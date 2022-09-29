@@ -1,0 +1,12 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "music_disc_dog",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "music_disc_dog"
+		}
+	}
+}

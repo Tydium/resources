@@ -1,59 +1,40 @@
 {
   "format_version" : "1.14.0",
   "sound_definitions" : {
-    "record.chinese_anthem": {
+    "tydiumcraft:music_disc.chineseanthem": {
       "max_distance": 64.0,
       "sounds": [
-        {
-          "name": "sounds/music/game/records/chinese_anthem",
-          "stream": true,
-          "volume": 0.5,
-          "load_on_low_memory": true
-        }
+        "sounds/music/game/records/chineseanthem"
       ]
     },
-    "record.m64castle": {
+    "tydiumcraft:music_disc.jackalannonymous": {
       "max_distance": 64.0,
       "sounds": [
-        {
-          "name": "sounds/music/game/records/m64castle",
-          "stream": true,
-          "volume": 0.5,
-          "load_on_low_memory": true
-        }
+        "sounds/music/game/records/jackalannonymous"
       ]
     },
-    "record.smashbros": {
+    "tydiumcraft:music_disc.pizzaparkeronemufilovetydium": {
       "max_distance": 64.0,
       "sounds": [
-        {
-          "name": "sounds/music/game/records/smashbros",
-          "stream": true,
-          "volume": 0.5,
-          "load_on_low_memory": true
-        }
+          "sounds/music/game/records/pizzaparkeronemufilovetydium"
       ]
     },
-    "record.megalovania": {
+    "tydiumcraft:music_disc.tobyfoxmegalovania": {
       "max_distance": 64.0,
       "sounds": [
-        {
-          "name": "sounds/music/game/records/megalovania",
-          "stream": true,
-          "volume": 0.5,
-          "load_on_low_memory": true
-        }
+        "sounds/music/game/records/tobyfoxmegalovania"
+      ]
+    },
+    "tydiumcraft:music_disc.cfouroneeightdog": {
+      "max_distance": 64.0,
+      "sounds": [
+        "sounds/music/game/records/cfouroneeightdog"
       ]
     },
     "tydiumcraft:animal.owl.hoot": {
       "max_distance": 64.0,
       "sounds": [
-        {
-          "name": "sounds/animals/owl/hoot",
-          "stream": true,
-          "volume": 0.5,
-          "load_on_low_memory": true
-        }
+        "sounds/animals/owl/hoot"
       ]
     }
   }

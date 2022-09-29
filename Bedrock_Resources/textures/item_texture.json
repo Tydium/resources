@@ -112,16 +112,6 @@
         "textures/items/food/noodles.png"
       ]
     },
-    "music_disc_megalovania": {
-      "textures": [
-        "textures/items/disc/music_disc_megalovania.png"
-      ]
-    },
-    "music_disc_smashbros": {
-      "textures": [
-        "textures/items/disc/music_disc_smashbros.png"
-      ]
-    },
     "owl": {
       "textures": [
         "textures/animals/owl_face.png"
@@ -160,6 +150,31 @@
     "owl_walk3": {
       "textures": [
         "textures/animals/owl_face.png"
+      ]
+    },
+    "music_disc_megalovania": {
+      "textures": [
+        "textures/items/disc/music_disc_tobyfoxmegalovania"
+      ]
+    },
+    "music_disc_chineseanthem": {
+      "textures": [
+        "textures/items/disc/music_disc_chineseanthem"
+      ]
+    },
+    "music_disc_jackal": {
+      "textures": [
+        "textures/items/disc/music_disc_jackalannonymous"
+      ]
+    },
+    "music_disc_iltydium": {
+      "textures": [
+        "textures/items/disc/music_disc_pizzaparkeronemufilovetydium"
+      ]
+    },
+    "music_disc_dog": {
+      "textures": [
+        "textures/items/disc/music_disc_cfouroneeightdog"
       ]
     }
   }
