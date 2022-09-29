@@ -3,5 +3,30 @@
         "sounds": [
             "tydiumcraft:animals/owl/hoot"
         ]
+    },
+    "music_disc.cfouroneeightdog": {
+        "sounds": [
+            "tydiumcraft:records/cfouroneeightdog"
+        ]
+    },
+    "music_disc.chineseanthem": {
+        "sounds": [
+            "tydiumcraft:records/chineseanthem"
+        ]
+    },
+    "music_disc.jackalannonymous": {
+        "sounds": [
+            "tydiumcraft:records/jackalannonymous"
+        ]
+    },
+    "music_disc.pizzaparkeronemufilovetydium": {
+        "sounds": [
+            "tydiumcraft:records/pizzaparkeronemufilovetydium"
+        ]
+    },
+    "music_disc.tobyfoxmegalovania": {
+        "sounds": [
+            "tydiumcraft:records/tobyfoxmegalovania"
+        ]
     }
 }
